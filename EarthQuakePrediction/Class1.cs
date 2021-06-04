@@ -2,7 +2,7 @@
 
 namespace EarthQuakePrediction
 {
-    public class Class1
+    public class DataService
     {
 
     }
